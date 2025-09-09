@@ -5,17 +5,6 @@
 
 ![Logo](./images/Cloud-Practitioner.png)
 
-## Buy This AWS Cloud Practitioner Study Notes And Practice Exams PDF
-
-![Ebook_Cover](./images/Ebook_Cover.png)
-
-**[Sample PDF](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Study Notes PDF](https://ko-fi.com/s/02467fa90c)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://ko-fi.com/s/26525f2067)**
-
-Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
-
-Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
 
 Each Section contains a number of units. **Below Table Link** containing information about each sections in detail.
 
